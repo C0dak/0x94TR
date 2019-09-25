@@ -1,5 +1,5 @@
 # 0x94TR
-0x94 Scanner Burp Suite Extension
+0x94TR Scanner Burp Suite Extension
 
 <ul>
 <li>GET-POST SQL Injection </li>
