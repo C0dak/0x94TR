@@ -36,5 +36,4 @@ Choose 0x94TR.py<br>
 Done!<br>
 
 
-
-[![0x94TR Burp Extension](http://img.youtube.com/vi/WkvuoWh12IU/0.jpg)](https://www.youtube.com/watch?v=HWMUSTBVovk "0x94TR Burp Extension")
+[![0x94TR Burp Suite Extension](http://img.youtube.com/vi/HWMUSTBVovk/0.jpg)](http://www.youtube.com/watch?v=HWMUSTBVovk "0x94TR Burp Suite Extension")
