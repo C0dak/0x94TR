@@ -7,7 +7,7 @@
 
 <li>GET-POST Time Based SQL Injection </li>
 <li>GET-POST Boolean Based SQL Injection </li>
-<li>GET-POST nion Based SQL Injection </li>
+<li>GET-POST Union Based SQL Injection </li>
 <li>GET-POST Remote Command Execution</li>
 <li>GET-POST PHP exec</li>
 <li>GET-POST Local File Include</li>
