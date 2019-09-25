@@ -23,5 +23,18 @@
 </ul>
 
 
+Requirements:<br>
+Burp Suite Professional, Jython 2.5 or later standalone: http://www.jython.org/downloads.html<br>
+Manual installation:<br>
+'Extender'->'Options'<br>
+Click 'Select file' under 'Python environment'<br>
+Choose jython-standalone-2.5.jar<br>
+'Extender'->'Extensions'<br>
+Click 'Add'<br>
+Change 'Extension Type' to Python<br>
+Choose 0x94TR.py<br>
+Done!<br>
+
+
 
 [![0x94TR Burp Extension](http://img.youtube.com/vi/WkvuoWh12IU/0.jpg)](https://www.youtube.com/watch?v=HWMUSTBVovk "0x94TR Burp Extension")
