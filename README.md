@@ -20,6 +20,12 @@
 <li>GET-POST Frame Injection </li>
 <li>GET-POST SSI Injection </li>
 <li>GET-POST Template Injection </li>
+<li>HTTP Response Splitting</li>
+<li>Blind Command Injection</li>
+<li>Blind Remote Command Injection</li>
+<li>Blind XPATH Injection</li>
+<li>Header(Cookie/UserAgent) Injection</li>
+
 </ul>
 
 
