@@ -2,7 +2,7 @@
 0x94TR Scanner Burp Suite Extension
 
 <ul>
-<li>GET-POST SQL Injection </li>
+<li>GET-POST Error Based SQL Injection </li>
 <li>GET-POST Blind SQL Injection </li>
 
 <li>GET-POST Time Based SQL Injection </li>
