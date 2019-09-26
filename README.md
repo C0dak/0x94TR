@@ -34,7 +34,7 @@ Burp Suite Professional, 2.7.0 standalone: http://www.jython.org/downloads.html<
 Manual installation:<br>
 'Extender'->'Options'<br>
 Click 'Select file' under 'Python environment'<br>
-Choose jython-standalone-2.5.jar<br>
+Choose jython-standalone-2.7.0.jar<br>
 'Extender'->'Extensions'<br>
 Click 'Add'<br>
 Change 'Extension Type' to Python<br>
