@@ -30,7 +30,7 @@
 
 
 Requirements:<br>
-Burp Suite Professional, Jython 2.5 or later standalone: http://www.jython.org/downloads.html<br>
+Burp Suite Professional, 2.7.0 standalone: http://www.jython.org/downloads.html<br>
 Manual installation:<br>
 'Extender'->'Options'<br>
 Click 'Select file' under 'Python environment'<br>
